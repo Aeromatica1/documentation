@@ -1,4 +1,4 @@
-# ✈️ AeromáticaX
+# ✈️ Aeromática
 
 > Administre um aeroporto usando a matemática como aliada.
 
